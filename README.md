@@ -1,4 +1,4 @@
-# Hi, I'm Adnan! 👋
+# Hi, I'm Adnan! ✨
 
 I'm an Information Technology and Management graduate student at UT Dallas (M.S., 2026–2028) with a B.S. in Computer Science. I'm passionate about **AI agents, machine learning, and project management**, and I enjoy turning ideas into working software.
 
@@ -78,22 +78,18 @@ I'm an Information Technology and Management graduate student at UT Dallas (M.S.
 - Led a team of 6 students to build a JavaScript/TypeScript, React, Postgres, Docker, and Node.js app, gathering requirements directly from medical staff as end users through ongoing stakeholder collaboration.
 - Digitized patient records with RBAC and security policies to protect data per HIPAA guidelines, coordinating with team members to balance feature scope against delivery timelines.
 
+### [Shoely AI](https://github.com/ninja234-blip/Shoely-AI)
+*UT Dallas | MIS 6308 Group Project | Project / Product Lead*
+- Led a team project to build an agentic application for supply chain automation: an inventory and procurement assistant for a multi-store footwear retailer that watches stock, forecasts demand, drafts and issues purchase orders, chases suppliers, reconciles deliveries, and flags dead stock.
+- Included a Claude-powered chatbot that lets a manager run all of it in plain English, with agents doing the legwork and the manager staying the approver.
+
+### [Medical Clinic Appointment System](https://github.com/ninja234-blip/medical-clinic-appointment-system)
+*UT Dallas | MIS 6382 | Project / Product Lead*
+- Built a Python desktop application for scheduling clinic appointments, with patient and staff screens, doctor and nurse availability windows, and available-slot booking.
+- Organized the code into models, services, and storage layers with saved clinic data, and wrote unit and integration tests across the modules.
+
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-kinadiyil-36a883257)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnkin343@gmail.com)
-
-<!--
-**ninja234-blip/ninja234-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
